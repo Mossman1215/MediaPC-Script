@@ -7,7 +7,7 @@ function steamL {
 	fi
 }
 function xbmcL {
-	xbmc
+	kodi
 	if [ $? ]
 	then
 		steamL
